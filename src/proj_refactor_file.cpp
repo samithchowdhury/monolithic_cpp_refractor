@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : proj_refactor_file
-// Author      : 
-// Version     :
+// Author      : samith chowdhury 
+// Version     : v1.0
 // Copyright   : Steal this code!
 // Description : learn how to refactor files into a sensible directory structure
 //============================================================================
